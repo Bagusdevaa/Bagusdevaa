@@ -25,6 +25,6 @@ I am currently a student at Udayana University majoring in Computer Science 🏫
 
 ### Reach me on
 - <a href="https://linkedin.com/in/bagus-deva/">LinkedIn</a>
-- deva999official@gmail.com
+- devadigadana@gmail.com
 - <a href="https://instagram.com/bagusdevaddp">Instagram</a>
 
