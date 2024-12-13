@@ -1,8 +1,4 @@
 ### Hi! 👋 I'm Deva.
-<div align="center">
-  <img height="" src="background.png"  />
-</div>
-<p></p>
 
 Someone with a passion in the world of Data. Loves statistics and enjoys applying it in Data Science.
 
