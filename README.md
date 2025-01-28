@@ -5,7 +5,7 @@ Someone with a passion in the world of Data. Loves statistics and enjoys applyin
 I am currently a student at Udayana University majoring in Computer Science 🏫.
 
 - 🎓 Cohort at Bangkit 2023 batch 2, Machine learning learning path
-- 📖 I am currently participating in Merdeka Belajar - Studi Independen program MariBelajar, following learning path Microsoft Data Engineer
+- 📖 Cohort at Merdeka Belajar - Studi Independen program MariBelajar, following learning path Microsoft Data Engineer
 - 💬 Feel free to engage in discussions about data
 - 📫 How to reach me: deva999official@gmail.com
 
