@@ -1,15 +1,17 @@
 ### Hi! 👋 I'm Deva.
 
-Someone with a passion in the world of Data. Loves statistics and enjoys applying it in Data Science.
+🎯 A passionate individual in the world of **Data** — loves statistics and enjoys applying it in **Data Science**.
 
-I am currently a student at Udayana University majoring in Computer Science 🏫.
+🎓 Currently a Computer Science student at **Udayana University** 🏫
 
-- 🎓 Cohort at Bangkit 2023 batch 2, Machine learning learning path
-- 📖 Cohort at Merdeka Belajar - Studi Independent program MariBelajar, following learning path Microsoft Data Engineer
-- 💬 Feel free to engage in discussions about data
-- 📫 How to reach me: devadigadana@gmail.com
+---
 
+#### 🚀 Experience & Learning Journey:
+- 🎓 Cohort at **Bangkit 2023 Batch 2** – Machine Learning Path by Google, GoTo, and Traveloka
+- 📖 Cohort at **Merdeka Belajar - Studi Independent MariBelajar** – Microsoft Data Engineer Path
+- 💬 Always open for discussions related to **Data**, **AI**, or **Tech** in general
 
+---
   
 ### Github Statistic
 <p align="left">
@@ -19,8 +21,13 @@ I am currently a student at Udayana University majoring in Computer Science 🏫
 </a>
 </p>
 
-### Reach me on
-- <a href="https://linkedin.com/in/bagus-deva/">LinkedIn</a>
-- devadigadana@gmail.com
-- [portofolio website](https://bagusdevaa.github.io/personal-portofolio/)
+---
+
+### 📫 Reach Me On
+
+<p>
+  <a href="mailto:devadigadana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bagus-deva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://bagusdevaa.github.io/personal-portofolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
