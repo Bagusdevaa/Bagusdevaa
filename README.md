@@ -2,7 +2,7 @@
 
 🎯 A passionate individual in the world of **Data** — loves statistics and enjoys applying it in **Data Science**.
 
-🎓 Currently a Computer Science student at **Udayana University** 🏫
+🎓 Currently work as Data Analyst & AI Automation Engineer 🏫
 
 ---
 
