@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Deva.
+### Hi! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> I'm Deva.
 
 🎯 A passionate individual in the world of **Data** — loves statistics and enjoys applying it in **Data Science**.
 
