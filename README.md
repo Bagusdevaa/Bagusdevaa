@@ -14,17 +14,19 @@
 ---
   
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/Bagusdevaa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bagusdevaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bagusdevaa&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+    src="https://github-readme-stats-tau-lovat.vercel.app/api?username=Bagusdevaa&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600" />
 </a>
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="200" align="center"
+       src="https://github-readme-stats-tau-lovat.vercel.app/api/top-langs?username=Bagusdevaa&layout=compact&langs_count=8&card_width=320&theme=algolia&cache_seconds=21600" />
+</a>
+
 
 ---
 
 ### 📫 Reach Me On
-
 <p>
   <a href="mailto:devadigadana@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/bagus-deva/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
