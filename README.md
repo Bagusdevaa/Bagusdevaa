@@ -2,7 +2,7 @@
 
 🎯 A passionate individual in the world of **Data** — loves statistics and enjoys applying it in **Data Science**.
 
-💻 Currently work as Data Analyst & AI Automation Engineer 🏫
+💻 Currently I'am working as Software & AI Engineer 🏫
 
 ---
 
