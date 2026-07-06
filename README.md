@@ -14,13 +14,11 @@
 ---
   
 ### Github Statistic
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-    src="https://github-readme-stats-tau-lovat.vercel.app/api?username=Bagusdevaa&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=21600" />
+<a href="https://github.com/Bagusdevaa/Bagusdevaa">
+  <img height="200" align="center" src="./profile/stats.svg" alt="Deva's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="200" align="center"
-       src="https://github-readme-stats-tau-lovat.vercel.app/api/top-langs?username=Bagusdevaa&layout=compact&langs_count=8&card_width=320&theme=algolia&cache_seconds=21600&hide=jupyter%20notebook,html" />
+<a href="https://github.com/Bagusdevaa/Bagusdevaa">
+  <img height="200" align="center" src="./profile/top-langs.svg" alt="Top languages" />
 </a>
 
 
