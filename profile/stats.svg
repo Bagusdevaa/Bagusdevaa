@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bagus Deva's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  : 1681, Total PRs: 205, Total Issues: 157, Contributed to (last year): 32</desc>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  : 1735, Total PRs: 205, Total Issues: 157, Contributed to (last year): 32</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 84.71415274820347;
+        stroke-dashoffset: 84.23422711203965;
       }
     }
   
